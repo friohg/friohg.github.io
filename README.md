@@ -1,2 +1,6 @@
-# whitelight61.github.io
-Public landing for Cody Boomer / Caveman Actual Shopify 2.0 rebuilds. Austin, TX. US-remote.
+# Caveman Actual — Shopify 2.0 rebuild landing
+
+Live site: https://whitelight61.github.io/
+
+Cody Boomer. Austin, TX. US-remote.
+Leads: CavemanXActual@proton.me
